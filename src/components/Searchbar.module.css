@@ -1,0 +1,20 @@
+.input {
+    border-radius: 20px;
+    padding: 10px;
+    opacity: 0.6;
+    width: 305px;
+    margin-right: 10px;
+}
+
+.btnSearch {
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Arial ;
+    font-size: large;
+    opacity: 0.6;
+    transition: 0.3s;
+    margin-right: 5rem;
+    color: aliceblue;
+}

@@ -1,0 +1,26 @@
+#logoHenry {
+  margin-right: 1.5rem;
+  margin-left: 5rem;
+
+
+}
+
+a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0.2rem;
+
+}
+
+span{
+  color: azure;
+}
+
+
+.flexing {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: #537895;
+  background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
